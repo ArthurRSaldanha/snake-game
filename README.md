@@ -10,3 +10,6 @@
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+<p>
+  Deploy: <a href="https://snake-game-lake-ten.vercel.app">Snake-Game</a>
+</p>
